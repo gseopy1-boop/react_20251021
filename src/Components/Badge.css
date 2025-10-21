@@ -1,0 +1,12 @@
+.Badge-box{
+    width: 5rem;
+    height: 3rem;
+
+    background: lightcoral;
+    line-height: 2.8rem;
+
+    border-radius: 0.5rem;
+    color: beige;
+
+    font-weight: bold;
+}
